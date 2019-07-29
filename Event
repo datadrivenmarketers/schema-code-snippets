@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "",
+  "description": "",
+  "image": "",
+  "startDate": "2029-08-03T09:00",
+  "endDate": "2029-08-03T13:00",
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "postalCode": "",
+      "addressCountry": ""
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "",
+    "priceCurrency": "",
+    "price" : "",
+    "validFrom": "2029-08-03",
+    "url": "",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
