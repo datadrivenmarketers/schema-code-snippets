@@ -1,0 +1,33 @@
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "",
+  "name": "",
+  "alternateName": "",
+  "url": "",
+  "logo": "",
+  "image": "",
+  "telephone": "",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "",
+    "addressLocality": "",
+    "addressRegion": "",
+    "postalCode": "",
+    "addressCountry": ""
+  },
+"contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "",
+    "contactType": "customer service",
+    "areaServed": "",
+    "availableLanguage": ""
+  },
+  "sameAs": [
+    "https://www.facebook.com/",
+    "https://www.youtube.com/channel/",
+    "https://www.linkedin.com/company/"
+  ]
+}
+</script>
