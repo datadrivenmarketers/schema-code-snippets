@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Heliae Development, LLC",
+  "image": "https://heliaeglobal.com/wp-content/uploads/2018/09/heliaelogo-mobile-drk.png",
+  "@id": "https://heliaeglobal.com/",
+  "url": "https://heliaeglobal.com/",
+  "telephone": "(800) 373-4187",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "578 E Germann Rd",
+    "addressLocality": "Gilbert",
+    "addressRegion": "AZ",
+    "postalCode": "85297",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.2804117,
+    "longitude": -111.7773145
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  }
+}
+</script>
