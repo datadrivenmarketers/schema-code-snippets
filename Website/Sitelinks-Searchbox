@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "HeliaeGlobal",
+  "url": "https://heliaeglobal.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://heliaeglobal.com/?s={search_term_string}https://heliaeglobal.com/?s=regenerative+agriculture+",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
