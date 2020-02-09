@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Heliae Development, LLC",
+  "alternateName": "Heliae",
+  "url": "https://heliaeglobal.com/",
+  "logo": "https://heliaeglobal.com/wp-content/uploads/2018/09/heliaelogo-mobile-drk.png",
+  "sameAs": [
+    "https://www.facebook.com/HeliaeGlobal/",
+    "https://www.instagram.com/heliaeglobal/",
+    "https://www.youtube.com/channel/UCXsSQ4X1J7slsX0LKOVJPhQ?view_as=subscriber",
+    "https://www.linkedin.com/company/heliae/",
+    "https://twitter.com/HeliaeGlobal"
+  ]
+}
+</script>
