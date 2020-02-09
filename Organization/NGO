@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "NGO",
   "name": "Heliae Development, LLC",
   "alternateName": "Heliae",
   "url": "https://heliaeglobal.com/",
