@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "StandStrong",
+  "image": "https://preventfalls.org/wp-content/uploads/2020/01/logo.png",
+  "@id": "https://preventfalls.org/",
+  "url": "https://preventfalls.org/",
+  "telephone": "844-824-8724",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3241 E. Camelback Road",
+    "addressLocality": "Phoenix",
+    "addressRegion": "AZ",
+    "postalCode": "85018",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.5097191,
+    "longitude": -112.010819
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  }
+}
+</script>
